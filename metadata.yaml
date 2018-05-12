@@ -1,10 +1,14 @@
 _repo: Vertheidigung-des-Herrn-Wieland-gegen-die-Wolken-von-dem-Verfasser-der-Wolken-Deutsche-Litter__48567
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Schmidt, Erich
       gutenberg_agent_id: '44858'
       url: http://www.gutenberg.org/2009/agents/44858
+covers:
+- cover_type: archival
+  image_path: 48567-h/images/cover.jpg
 creator:
   author:
     agent_name: Lenz, Jakob Michael Reinhold
@@ -19,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jakob_Michael_Reinhold_Lenz
     - http://de.wikipedia.org/wiki/Jakob_Michael_Reinhold_Lenz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48567#Vertheidigung-des-Herrn-Wieland-gegen-die-Wolken-von-dem-Verfasser-der-Wolken-Deutsche-Litter_
 gutenberg_issued: '2015-03-23'
 gutenberg_type: Text
 identifiers:
